@@ -1,0 +1,8 @@
+{
+  "nombre": "Lenin",
+  "apellido": "Moises",
+  "edad": 23,
+  "ciudad": "Maracaibo",
+  "Trabaja": true,
+  "habilidades": ["python", "javascript", "PHPMyAdmin", "Xampp"]
+}
